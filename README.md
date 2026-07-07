@@ -41,7 +41,7 @@ Bases de datos SQL
 <div align="left">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   
-  - Entendimiento de tableros Kanban y usado para gestionar tareas (proyectos académicos y personales).
+  - Entendimiento de tableros Kanban para seguimiento de proyectos y usado para gestionar tareas (proyectos académicos y personales).
 </div>
 
 ---
