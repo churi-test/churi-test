@@ -29,7 +29,7 @@ Actualmente estoy fortaleciendo mis conocimientos en QA, enfocándome en compren
 
 | **Proyecto** | **Stack** |  **Descripción** |
 |--------|------|------|
-| [sauce-qa-porject](https://github.com/churi-test/sauce-qa-porject.git)| Selenium WebDriver + Java | 8 tests UI, 5 casos manuales, 3 bugs documentados |
+| [sauce-qa-porject](https://github.com/churi-test/sauce-qa-project.git)| Selenium WebDriver + Java | 8 tests UI, 5 casos manuales, 3 bugs documentados |
 | [calidadsinhumo-qa-portfolio](https://github.com/churi-test/calidadsinhumo-qa-portfolio.git)| QA manual | 23 casos manuales, 23 casos ejecutados, 8 bugs documentados |
 
 ---
